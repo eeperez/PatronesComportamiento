@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\PatronesComportamiento\bin\Debug\PatronesComportamiento.exe.config
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\PatronesComportamiento\bin\Debug\PatronesComportamiento.exe
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\PatronesComportamiento\bin\Debug\PatronesComportamiento.pdb
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\PatronesComportamiento\obj\Debug\PatronesComportamiento.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\PatronesComportamiento\obj\Debug\PatronesComportamiento.exe
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\PatronesComportamiento\obj\Debug\PatronesComportamiento.pdb

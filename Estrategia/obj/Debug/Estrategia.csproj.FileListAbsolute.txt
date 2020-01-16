@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\Estrategia\bin\Debug\Estrategia.exe.config
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\Estrategia\bin\Debug\Estrategia.exe
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\Estrategia\bin\Debug\Estrategia.pdb
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\Estrategia\obj\Debug\Estrategia.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\Estrategia\obj\Debug\Estrategia.exe
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\Estrategia\obj\Debug\Estrategia.pdb
