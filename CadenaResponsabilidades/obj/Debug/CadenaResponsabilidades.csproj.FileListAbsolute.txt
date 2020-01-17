@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\CadenaResponsabilidades\bin\Debug\CadenaResponsabilidades.exe.config
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\CadenaResponsabilidades\bin\Debug\CadenaResponsabilidades.exe
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\CadenaResponsabilidades\bin\Debug\CadenaResponsabilidades.pdb
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.exe
+F:\CursoSOLID\PatronesComportamiento\PatronesComportamiento\CadenaResponsabilidades\obj\Debug\CadenaResponsabilidades.pdb
