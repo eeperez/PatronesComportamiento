@@ -43,11 +43,28 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Comandos\ComandoCamina.cs" />
+    <Compile Include="Comandos\ComandoDispara.cs" />
+    <Compile Include="Comandos\ComandoGolpea.cs" />
+    <Compile Include="Comandos\ComandoLanzaGranada.cs" />
+    <Compile Include="Comandos\ComandoRiflePlasma.cs" />
+    <Compile Include="Comandos\ComandoSalta.cs" />
+    <Compile Include="DTOs\GuerreroDTO.cs" />
+    <Compile Include="Guerreros\GuerreroAlto.cs" />
+    <Compile Include="Guerreros\GuerreroBajo.cs" />
+    <Compile Include="Guerreros\GuerreroMedio.cs" />
+    <Compile Include="Interfaces\IComando.cs" />
+    <Compile Include="Interfaces\IGuerrero.cs" />
+    <Compile Include="Invoker\JuegoGuerrero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receivers\ReceiverLanzaGrandas.cs" />
+    <Compile Include="Receivers\ReceiverPlasma.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
